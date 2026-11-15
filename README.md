@@ -50,13 +50,6 @@
 
 ## 📊 GitHub Stats
 
-### 📌 Profile Summary
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=silveiramth&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-### 📌 Languages & Stats
-[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=silveiramth&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=silveiramth&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
 ### 📌 Commit Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=silveiramth&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
