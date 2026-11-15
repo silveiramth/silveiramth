@@ -67,8 +67,3 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%23007CB5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mtmontes/)
 [![Email](https://img.shields.io/badge/-Email-%23333333?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:mthmontess@outlook.com)
 
----
-
-## 🐍 Contributions
-
-![Snake animation](https://raw.githubusercontent.com/silveiramth/silveiramth/output/github-contribution-grid-snake-dark.svg)
